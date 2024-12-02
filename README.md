@@ -1,2 +1,2 @@
-# Exploring-Spark-Databricks-SQL-API-Streaming-and-Deep-Learning
+# Exploring-Spark-Databricks-SQL-API-Streaming-Deep-Learning
 Project in Pyspark
